@@ -5,5 +5,5 @@
 
 先看效果吧...
 
-![device-2019-12-13-154946](/Users/qiaosen/Downloads/device-2019-12-13-154946.gif)
+![device-2019-12-13-154946](img/device-2019-12-13-154946.gif)
 
