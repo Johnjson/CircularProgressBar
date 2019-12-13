@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Johnjson:CircularProgressBar:v1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af3897a00ca55ebfb6cc2923cc5a8a75/jetified-CircularProgressBar-v1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af3897a00ca55ebfb6cc2923cc5a8a75/jetified-CircularProgressBar-v1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Johnjson/CircularProgressBar/v1.0.0/8bb6b19a36bd58fd34695e57754b9e4661ac3d9c/CircularProgressBar-v1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

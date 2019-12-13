@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+attr? circular_betaAngle
+attr? circular_cTextColor
+attr? circular_cTextSize
+attr? circular_circleWidth
+attr? circular_defaultColor
+attr? circular_directionof
+attr? circular_runColor
+color colorGray
+color colorWhith
+styleable CirculaProgressBar circular_circleWidth circular_betaAngle circular_defaultColor circular_runColor circular_cTextSize circular_cTextColor circular_directionof
