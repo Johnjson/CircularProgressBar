@@ -339,12 +339,15 @@ public class CircularProgressBar extends View {
     }
 
     /**
-     *  停止动画
+     * 停止动画
      */
     public void stopAnimator() {
         if (mAnimator != null) {
             mAnimator.cancel();
         }
+        mCurrentValue = 0;
+        mCurrentProgress = 0;
+        invalidate();
     }
 
 }
