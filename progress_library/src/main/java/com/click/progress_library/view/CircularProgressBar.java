@@ -104,11 +104,11 @@ public class CircularProgressBar extends View {
     }
 
     public CircularProgressBar(Context context) {
-        this(context,null);
+        this(context, null);
     }
 
     public CircularProgressBar(Context context, @Nullable AttributeSet attrs) {
-        this(context, attrs,0);
+        this(context, attrs, 0);
     }
 
     public CircularProgressBar(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
@@ -189,7 +189,7 @@ public class CircularProgressBar extends View {
      * @param radius 圆的半径
      */
     private void drawCircle(Canvas canvas, int center, int radius) {
-        if (mCirclePaint == null){
+        if (mCirclePaint == null) {
             return;
         }
         // 清除上一次的shader
@@ -336,6 +336,15 @@ public class CircularProgressBar extends View {
         }
         mAnimator.setDuration(duration);
         mAnimator.start();
+    }
+
+    /**
+     *  停止动画
+     */
+    public void stopAnimator() {
+        if (mAnimator != null) {
+            mAnimator.cancel();
+        }
     }
 
 }

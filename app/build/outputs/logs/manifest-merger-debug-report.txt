@@ -4,7 +4,7 @@ ADDED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidMani
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.github.Johnjson:CircularProgressBar:v1.0.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/af3897a00ca55ebfb6cc2923cc5a8a75/jetified-CircularProgressBar-v1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [:progress_library] /Users/qiaosen/Downloads/CircularProgressBar/progress_library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/7d7462e2b02f25eb859eb2ec601bdd31/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/5ebf42893f5a7dfca51e48b5efb2bba1/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/2bed51ddd3b7e7415b1d45e47d8ed11b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -83,8 +83,8 @@ uses-sdk
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml
 INJECTED from /Users/qiaosen/Downloads/CircularProgressBar/app/src/main/AndroidManifest.xml
-MERGED from [com.github.Johnjson:CircularProgressBar:v1.0.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/af3897a00ca55ebfb6cc2923cc5a8a75/jetified-CircularProgressBar-v1.0.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Johnjson:CircularProgressBar:v1.0.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/af3897a00ca55ebfb6cc2923cc5a8a75/jetified-CircularProgressBar-v1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:progress_library] /Users/qiaosen/Downloads/CircularProgressBar/progress_library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:progress_library] /Users/qiaosen/Downloads/CircularProgressBar/progress_library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/7d7462e2b02f25eb859eb2ec601bdd31/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/7d7462e2b02f25eb859eb2ec601bdd31/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiaosen/.gradle/caches/transforms-2/files-2.1/5ebf42893f5a7dfca51e48b5efb2bba1/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41

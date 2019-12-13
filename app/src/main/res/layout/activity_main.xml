@@ -22,6 +22,14 @@
         app:circular_directionof="false"
          />
 
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:text="停止动画"
+        android:textSize="18dp"
+        android:textColor="#2395FF"/>
+
     <com.click.progress_library.view.CircularProgressBar
         android:id="@+id/CircularProgressBar2"
         android:layout_width="100dp"
