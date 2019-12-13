@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F2F2"
+    tools:context=".MainActivity">
+
+    <com.click.progress_library.view.CircularProgressBar
+        android:id="@+id/CircularProgressBar1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="100dp"
+        app:circular_cTextColor="#2395FF"
+        app:circular_cTextSize="25dp"
+        app:circular_circleWidth="8dp"
+        app:circular_defaultColor="@color/colorGray"
+        app:circular_runColor="@color/colorWhith"
+        app:circular_directionof="false"
+         />
+
+    <com.click.progress_library.view.CircularProgressBar
+        android:id="@+id/CircularProgressBar2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/CircularProgressBar1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="100dp"
+        app:circular_cTextColor="#2395FF"
+        app:circular_cTextSize="25dp"
+        app:circular_circleWidth="8dp"
+        app:circular_defaultColor="@color/colorGray"
+        app:circular_runColor="@color/colorWhith"
+        app:circular_directionof="true"
+        />
+
+</RelativeLayout>

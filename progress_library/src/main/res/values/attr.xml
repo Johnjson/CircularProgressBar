@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CirculaProgressBar">
+        <attr name="circular_circleWidth" format="dimension" />
+        <attr name="circular_betaAngle" format="integer" />
+        <attr name="circular_defaultColor" format="color" />
+        <attr name="circular_runColor" format="color" />
+        <attr name="circular_cTextSize" format="dimension" />
+        <attr name="circular_cTextColor" format="color" />
+        <attr name="circular_directionof" format="boolean" />
+    </declare-styleable>
+
+</resources>
